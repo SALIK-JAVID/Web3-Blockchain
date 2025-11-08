@@ -249,3 +249,9 @@ When selecting a blockchain for your first DApp, consider:
 ## **Dfinity**: [Dfinity's foundation](https://dfinity.org/)
 
 - I'm using Dfinity's Internet computing in order to develop a dcentralised finance app.
+
+---
+
+## Connect
+
+**Portfolio**: [@SALIK-JAVID](https://salik-portfolio.vercel.app/)
